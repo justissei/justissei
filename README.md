@@ -1,6 +1,6 @@
 <br clear="both">
 
-### <p align="left">Techs:</p>
+### <p align="center">Techs:</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -14,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-### <p align="left">Social Media</p>
+### <p align="center">Social Media</p>
 
 ###
 
