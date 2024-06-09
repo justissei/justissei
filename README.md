@@ -39,7 +39,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/G90Mph0/images.jpg"  />
+  <img height="200" src="https://giphy.com/gifs/demon-slayer-tanjiro-TdoiN7rZuGDJPs2rAS"  />
 </div>
 
 ###
